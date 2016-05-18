@@ -1,0 +1,6 @@
+;(load "/home/mjsantof/Dropbox/Scone/pathToFilesToLoadCore8")
+(load "/home/mjsantof/Dropbox/Scone/scone/scone-loader.lisp")
+(scone "0.8.22")
+(load "/home/mjsantof/Dropbox/Scone/scone/0.8.22/kb/core.lisp")
+
+(load "/home/mjsantof/repo/course.scone/src/university_example_v6.lisp")
